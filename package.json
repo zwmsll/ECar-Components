@@ -1,0 +1,25 @@
+{
+  "name": "Ecar-bower-test",
+  "version": "1.0.0",
+  "description": "local storage localstorage package provieds",
+  "main": [
+    "js/main.js",
+    "sass/motion.scss"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwmsll/ECar-Components.git"
+  },
+  "keywords": [
+    "Ecar-bower-test"
+  ],
+  "author": " <zwmsll@126.com> (zhangweiming<zwmsll@126.com>)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zwmsll/ECar-Components/issues"
+  },
+  "homepage": "https://github.com/zwmsll/ECar-Components"
+}

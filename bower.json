@@ -30,10 +30,12 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
+	"zepto": "~1.1.6",
     "bootstrap": "~3.3.6"
   },
   "devDependencies": {
     "jquery": "~2.1.4",
+	"zepto": "~1.1.6",
     "bootstrap": "~3.3.6"
   }
 }
